@@ -1,0 +1,35 @@
+* {box-sizing:border-box;
+background-color: white;}
+
+
+.container {
+  width: 100%; 
+  background-color: #ddd; 
+}
+
+.skills {
+  text-align: right; 
+  padding: 10px; 
+  color: white; 
+}
+
+.col-md-4{
+    background-color: white;
+}
+
+.barcontainer{
+    background-color: grey;
+}
+.html {width: 90%; background-color: #4CAF50;} 
+.css {width: 90%; background-color: #4CAF50;} 
+.js {width: 90%; background-color: #4CAF50;} 
+.node {width: 85%; background-color: #4CAF50;} 
+.angular {width: 80%; background-color: #4CAF50;} 
+.python {width: 75%; background-color: #4CAF50;} 
+.django {width: 60%; background-color: #4CAF50;} 
+.mysql {width: 85%; background-color: #4CAF50;} 
+.jquery {width: 85%; background-color: #4CAF50} 
+
+.addSkills {
+    list-style-type: circle;
+}
