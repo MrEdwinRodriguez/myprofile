@@ -111,7 +111,7 @@
   }
   
 
-  @media screen and (max-width: 650px) {
+  @media screen and (max-width: 980px) {
   
     .profile-userpic img {
     width: 40%;

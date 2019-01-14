@@ -7,6 +7,7 @@ import { ProfilesummaryComponent } from './profilesummary/profilesummary.compone
 import { AngularFontAwesomeModule } from 'angular-font-awesome';
 import { IntroComponent } from './profilesummary/intro/intro.component';
 import { SkillsComponent } from './profilesummary/skills/skills.component';
+import { NavbarComponent } from './navbar/navbar.component';
 
 @NgModule({
   declarations: [
@@ -14,7 +15,8 @@ import { SkillsComponent } from './profilesummary/skills/skills.component';
     ProfilebarComponent,
     ProfilesummaryComponent,
     IntroComponent,
-    SkillsComponent
+    SkillsComponent,
+    NavbarComponent
   ],
   imports: [
     BrowserModule,

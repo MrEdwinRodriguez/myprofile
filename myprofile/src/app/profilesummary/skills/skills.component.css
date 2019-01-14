@@ -2,6 +2,13 @@
 background-color: white;}
 
 
+
+/* #skills{
+    background-color: silver !important;
+} */
+.container[_ngcontent-c4]{
+    background-color: white !important;
+}
 .container {
   width: 100%; 
   background-color: #ddd; 
@@ -16,6 +23,7 @@ background-color: white;}
 .col-md-4{
     background-color: white;
 }
+
 
 .barcontainer{
     background-color: grey;
